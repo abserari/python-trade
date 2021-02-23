@@ -1,3 +1,5 @@
+## 环境
+推荐使用 vscode, 其中的 python 扩展也兼容 conda
 安装 conda
 
 创建环境
